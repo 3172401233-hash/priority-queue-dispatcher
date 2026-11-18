@@ -1,0 +1,13 @@
+{
+  "name": "priority-queue-dispatcher",
+  "version": "0.1.0",
+  "description": "Priority task dispatcher with aging, tenant fair-share, deadlines and starvation floors",
+  "type": "module",
+  "main": "src/dispatcher.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
